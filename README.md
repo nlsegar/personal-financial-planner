@@ -2,6 +2,14 @@
 
 A Claude skill that builds a comprehensive, personalized single-file HTML financial dashboard from your real account data. No server, no API keys, no data leaves your machine.
 
+## Screenshots
+
+![Overview](screenshots/01-overview.png)
+![Portfolio](screenshots/02-portfolio.png)
+![Retirement](screenshots/03-retirement.png)
+![Monte Carlo](screenshots/04-montecarlo.png)
+![Action Items](screenshots/05-actions.png)
+
 ## What It Does
 
 Give Claude your financial information (or upload screenshots from Copilot Money, Mint, Empower, etc.) and it builds a full interactive dashboard with:
